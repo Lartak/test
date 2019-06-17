@@ -17,13 +17,13 @@ It is powered by [CakePHP](http://cakephp.org) MVC framework.
 
 The preferred way to install Croogo is by using [composer](http://getcomposer.org).
 
-    composer create-project croogo/app myapp
+    composer create-project lartak/croogo-app myapp
     cd myapp
     composer install
 
 If you want hack on croogo, you can use the `--prefer-source` flag, ie:
 
-    `composer create-project --prefer-source croogo/app myapp`
+    `composer create-project --prefer-source lartak/croogo-app myapp`
 
 #### Web based installer
 
