@@ -4,9 +4,7 @@
 
 It is powered by [CakePHP](http://cakephp.org) MVC framework.
 
-[![Build Status](https://travis-ci.org/croogo/croogo.svg?branch=master)](https://travis-ci.org/croogo/croogo)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/croogo/croogo/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/croogo/croogo/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/croogo/croogo/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/croogo/croogo/?branch=master)
+[![Total Downloads](https://img.shields.io/packagist/dt/lartak/croogo-app.svg?style=flat-square)](https://packagist.org/packages/lartak/croogo-app)
 
 ## Requirements
   * Apache with `mod_rewrite`
